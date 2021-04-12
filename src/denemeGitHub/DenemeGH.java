@@ -9,7 +9,7 @@ public class DenemeGH {
 		System.out.println("deneme04");
 		System.out.println("denemeye devam");
 		System.out.println("alýþtýrmaaaa");
-	
+		System.out.println("alýþtýma");
 	}
 
 }
