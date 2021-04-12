@@ -11,6 +11,9 @@ public class DenemeGH {
 		System.out.println("alýþtýrmaaaa");
 		System.out.println("alýþtýma");
 		System.out.println("alýþtýrma");
+		System.out.println("alýþturýmaanlara devam ");
+		
+	
 	}
 
 }
