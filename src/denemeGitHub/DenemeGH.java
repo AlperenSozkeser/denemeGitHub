@@ -8,7 +8,7 @@ public class DenemeGH {
 		System.out.println("alýtýrmya devam");
 		System.out.println("deneme04");
 		System.out.println("denemeye devam");
-		
+		System.out.println("alýþtýrmaaaa");
 	
 	}
 
