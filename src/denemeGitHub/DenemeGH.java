@@ -12,7 +12,7 @@ public class DenemeGH {
 		System.out.println("alýþtýma");
 		System.out.println("alýþtýrma");
 		System.out.println("alýþturýmaanlara devam ");
-		
+		System.out.println("ne kadar alýþtýrma o kadar öðrenme");
 	
 	}
 
