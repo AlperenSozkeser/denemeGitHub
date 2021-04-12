@@ -6,6 +6,8 @@ public class DenemeGH {
 		System.out.println("deneme yapýyoruz");
 		System.out.println("tekrar alýþtýrma yapacaðýz");
 		System.out.println("alýtýrmya devam");
+		System.out.println("deneme04");
+	
 	}
 
 }
