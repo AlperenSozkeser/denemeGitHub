@@ -29,7 +29,7 @@ public class DenemeGH {
 		System.out.println("alýþturýmaanlara devam ");
 		System.out.println("ne kadar alýþtýrma o kadar öðrenme");
 	
-		
+		System.out.println("32. satir");
 	
 	}
 
