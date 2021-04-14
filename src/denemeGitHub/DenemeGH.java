@@ -1,4 +1,4 @@
-package denemeGitHub;
+  package denemeGitHub;
 
 public class DenemeGH {
 
@@ -28,6 +28,8 @@ public class DenemeGH {
 		System.out.println("ne kadar alýþtýrma o kadar öðrenme");
 		System.out.println("alýþturýmaanlara devam ");
 		System.out.println("ne kadar alýþtýrma o kadar öðrenme");
+	
+		
 	
 	}
 
