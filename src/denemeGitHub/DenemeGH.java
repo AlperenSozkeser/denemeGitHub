@@ -3,16 +3,18 @@ package denemeGitHub;
 public class DenemeGH {
 
 	public static void main(String[] args) {
-		System.out.println("deneme yapıyoruz");
-		System.out.println("tekrar alıştırma yapacağız");
-		System.out.println("alıtırmya devam");
+		System.out.println("deneme yapÃ½yoruz");
+		System.out.println("tekrar alÃ½Ã¾tÃ½rma yapacaÃ°Ã½z");
+		System.out.println("alÃ½tÃ½rmya devam");
 		System.out.println("deneme04");
 		System.out.println("denemeye devam");
-		System.out.println("alıştırmaaaa");
-		System.out.println("alıştıma");
-		System.out.println("alıştırma");
-		System.out.println("alışturımaanlara devam ");
-		System.out.println("ne kadar alıştırma o kadar öğrenme");
+		System.out.println("alÃ½Ã¾tÃ½rmaaaa");
+		System.out.println("alÃ½Ã¾tÃ½ma");
+		System.out.println("alÃ½Ã¾tÃ½rma");
+		System.out.println("alÃ½Ã¾turÃ½maanlara devam ");
+		System.out.println("ne kadar alÃ½Ã¾tÃ½rma o kadar Ã¶Ã°renme");
+		System.out.println("alÃ½Ã¾turÃ½maanlara devam ");
+		System.out.println("ne kadar alÃ½Ã¾tÃ½rma o kadar Ã¶Ã°renme");
 	
 	}
 
